@@ -1,1 +1,4 @@
-[submodule "vendor/learning-python"]\n\tpath = vendor/learning-python\n\turl = https://github.com/LinkedInLearning/learning-python-3980343\n\tbranch = main
+[submodule "vendor/learning-python"]
+path = vendor/learning-python
+url = https://github.com/LinkedInLearning/learning-python-3980343
+branch = main
